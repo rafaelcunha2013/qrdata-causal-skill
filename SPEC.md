@@ -18,7 +18,9 @@ Effect estimation is a procedure: name the estimand, name the design, choose a m
 
 ## What the skill does
 
-The agent follows six steps: (1) name the estimand (ATE, ATT, ATC, or "should we control for X?"), (2) name the design, (3) inspect the CSV, (4) choose the method from the skill's reference and compute it with the skill's script, (5) compare the result with the naive difference in means, (6) round as asked and end with `ANSWER: <value>`.
+The agent follows six steps: (1) write down what the question fixes: estimand, model terms, conditions, scale and rounding; (2) name the design; (3) inspect the CSV; (4) fit the model the question fixes, or else choose the method from the skill's reference and compute it with the skill's script; (5) compare the result with the naive difference in means and check it against step 1; (6) round as asked and end with `ANSWER: <value>`.
+
+*Changed on 12 Nov (v1 beside this file):* the failure analysis of the first run showed that method choice alone does not beat the agent (`PLAN.md` § 1, § 3). The skill therefore also teaches reading the specification off the question.
 
 ## What is in the skill, and what is not
 
