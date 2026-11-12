@@ -1,0 +1,42 @@
+{
+ "q081": {
+  "answer": "0.0014",
+  "question_type": "numerical"
+ },
+ "q409": {
+  "answer": "0.63",
+  "question_type": "numerical"
+ },
+ "q087": {
+  "answer": "3",
+  "question_type": "numerical"
+ },
+ "q013": {
+  "answer": "30",
+  "question_type": "numerical"
+ },
+ "q055": {
+  "answer": "4.4",
+  "question_type": "numerical"
+ },
+ "q105": {
+  "answer": "0.0312",
+  "question_type": "numerical"
+ },
+ "q098": {
+  "answer": "0.003",
+  "question_type": "numerical"
+ },
+ "q065": {
+  "answer": "yes",
+  "question_type": "multiple_choice"
+ },
+ "q042": {
+  "answer": "no",
+  "question_type": "multiple_choice"
+ },
+ "q079": {
+  "answer": "no",
+  "question_type": "multiple_choice"
+ }
+}

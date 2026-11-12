@@ -1,0 +1,278 @@
+{
+ "q312": {
+  "answer": "4.02",
+  "question_type": "numerical"
+ },
+ "q313": {
+  "answer": "4.00",
+  "question_type": "numerical"
+ },
+ "q314": {
+  "answer": "4.02",
+  "question_type": "numerical"
+ },
+ "q315": {
+  "answer": "4.05",
+  "question_type": "numerical"
+ },
+ "q316": {
+  "answer": "4.00",
+  "question_type": "numerical"
+ },
+ "q317": {
+  "answer": "4.06",
+  "question_type": "numerical"
+ },
+ "q318": {
+  "answer": "4.10",
+  "question_type": "numerical"
+ },
+ "q319": {
+  "answer": "4.00",
+  "question_type": "numerical"
+ },
+ "q320": {
+  "answer": "4.12",
+  "question_type": "numerical"
+ },
+ "q321": {
+  "answer": "4.27",
+  "question_type": "numerical"
+ },
+ "q322": {
+  "answer": "4.00",
+  "question_type": "numerical"
+ },
+ "q323": {
+  "answer": "4.34",
+  "question_type": "numerical"
+ },
+ "q324": {
+  "answer": "4.16",
+  "question_type": "numerical"
+ },
+ "q325": {
+  "answer": "4.00",
+  "question_type": "numerical"
+ },
+ "q326": {
+  "answer": "4.20",
+  "question_type": "numerical"
+ },
+ "q327": {
+  "answer": "4.00",
+  "question_type": "numerical"
+ },
+ "q328": {
+  "answer": "4.00",
+  "question_type": "numerical"
+ },
+ "q329": {
+  "answer": "4.00",
+  "question_type": "numerical"
+ },
+ "q330": {
+  "answer": "3.99",
+  "question_type": "numerical"
+ },
+ "q331": {
+  "answer": "4.00",
+  "question_type": "numerical"
+ },
+ "q332": {
+  "answer": "3.99",
+  "question_type": "numerical"
+ },
+ "q333": {
+  "answer": "3.85",
+  "question_type": "numerical"
+ },
+ "q334": {
+  "answer": "4.00",
+  "question_type": "numerical"
+ },
+ "q335": {
+  "answer": "3.82",
+  "question_type": "numerical"
+ },
+ "q336": {
+  "answer": "10.47",
+  "question_type": "numerical"
+ },
+ "q337": {
+  "answer": "4.00",
+  "question_type": "numerical"
+ },
+ "q338": {
+  "answer": "11.94",
+  "question_type": "numerical"
+ },
+ "q339": {
+  "answer": "4.59",
+  "question_type": "numerical"
+ },
+ "q340": {
+  "answer": "4.00",
+  "question_type": "numerical"
+ },
+ "q341": {
+  "answer": "4.72",
+  "question_type": "numerical"
+ },
+ "q342": {
+  "answer": "0.074",
+  "question_type": "numerical"
+ },
+ "q343": {
+  "answer": "0.025",
+  "question_type": "numerical"
+ },
+ "q344": {
+  "answer": "0.081",
+  "question_type": "numerical"
+ },
+ "q345": {
+  "answer": "0.110",
+  "question_type": "numerical"
+ },
+ "q346": {
+  "answer": "0.075",
+  "question_type": "numerical"
+ },
+ "q347": {
+  "answer": "0.097",
+  "question_type": "numerical"
+ },
+ "q348": {
+  "answer": "0.100",
+  "question_type": "numerical"
+ },
+ "q349": {
+  "answer": "0.075",
+  "question_type": "numerical"
+ },
+ "q350": {
+  "answer": "0.094",
+  "question_type": "numerical"
+ },
+ "q351": {
+  "answer": "0.073",
+  "question_type": "numerical"
+ },
+ "q352": {
+  "answer": "-4.91",
+  "question_type": "numerical"
+ },
+ "q353": {
+  "answer": "5.36%",
+  "question_type": "numerical"
+ },
+ "q354": {
+  "answer": "4.11%",
+  "question_type": "numerical"
+ },
+ "q355": {
+  "answer": "4.90",
+  "question_type": "numerical"
+ },
+ "q356": {
+  "answer": "4.43",
+  "question_type": "numerical"
+ },
+ "q357": {
+  "answer": "-7.59",
+  "question_type": "numerical"
+ },
+ "q358": {
+  "answer": "no",
+  "question_type": "multiple_choice"
+ },
+ "q359": {
+  "answer": "no",
+  "question_type": "multiple_choice"
+ },
+ "q360": {
+  "answer": "no",
+  "question_type": "multiple_choice"
+ },
+ "q361": {
+  "answer": "yes",
+  "question_type": "multiple_choice"
+ },
+ "q362": {
+  "answer": "8.53%",
+  "question_type": "numerical"
+ },
+ "q363": {
+  "answer": "3.29",
+  "question_type": "numerical"
+ },
+ "q364": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q365": {
+  "answer": "-7.36",
+  "question_type": "numerical"
+ },
+ "q366": {
+  "answer": "0.39",
+  "question_type": "numerical"
+ },
+ "q367": {
+  "answer": "0.39",
+  "question_type": "numerical"
+ },
+ "q368": {
+  "answer": "6.52",
+  "question_type": "numerical"
+ },
+ "q369": {
+  "answer": "24.83",
+  "question_type": "numerical"
+ },
+ "q370": {
+  "answer": "0.10",
+  "question_type": "numerical"
+ },
+ "q371": {
+  "answer": "10.57%",
+  "question_type": "numerical"
+ },
+ "q372": {
+  "answer": "-3.92",
+  "question_type": "numerical"
+ },
+ "q373": {
+  "answer": "-27.35",
+  "question_type": "numerical"
+ },
+ "q374": {
+  "answer": "-19.51",
+  "question_type": "numerical"
+ },
+ "q375": {
+  "answer": "2457.89",
+  "question_type": "numerical"
+ },
+ "q398": {
+  "answer": "9.25",
+  "question_type": "numerical"
+ },
+ "q399": {
+  "answer": "0.027",
+  "question_type": "numerical"
+ },
+ "q400": {
+  "answer": "0.064",
+  "question_type": "numerical"
+ },
+ "q401": {
+  "answer": "0.089",
+  "question_type": "numerical"
+ },
+ "q402": {
+  "answer": "255051",
+  "question_type": "numerical"
+ }
+}

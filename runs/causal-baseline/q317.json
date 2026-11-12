@@ -1,0 +1,6 @@
+{
+ "task": "q317",
+ "answer": "4.09",
+ "seconds": 16,
+ "reply": "The ATC is about 4.09. The file has only observed outcomes, so I estimated it by regression imputation rather than reading it off the data. I fit an outcome model on the treated units using all 25 covariates, then predicted what each control unit's outcome would have been under treatment. The ATC is the average of predicted-treated minus observed outcome across the controls.\n\nFor comparison, the raw difference in group means is 4.08, and a single regression with a treatment indicator and all covariates gives 3.90.\n\nANSWER: 4.09"
+}

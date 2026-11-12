@@ -1,0 +1,150 @@
+q115 r1 14 s 'C' 
+q118 r1 11 s 'C' 
+q119 r1 12 s 'C' 
+q121 r1 12 s 'C' 
+q122 r1 12 s 'C' 
+q123 r1 12 s 'C' 
+q124 r1 14 s 'C' 
+q125 r1 12 s 'A' 
+q126 r1 19 s 'C' peeked
+q127 r1 12 s 'C' 
+q128 r1 12 s 'C' peeked
+q135 r1 12 s 'C' 
+q136 r1 11 s 'C' 
+q139 r1 10 s 'B' 
+q140 r1 12 s 'B' 
+q141 r1 11 s 'A' 
+q142 r1 12 s 'C' 
+q143 r1 9 s 'A' 
+q145 r1 12 s 'A' 
+q149 r1 12 s 'B' 
+q151 r1 9 s 'A' 
+q154 r1 13 s 'A' 
+q155 r1 14 s 'C' 
+q156 r1 11 s 'B' 
+q159 r1 10 s 'B' 
+q163 r1 11 s 'A' 
+q167 r1 14 s 'B' 
+q169 r1 9 s 'B' 
+q171 r1 9 s 'B' 
+q172 r1 9 s 'B' 
+q175 r1 14 s 'B' 
+q178 r1 10 s 'A' 
+q179 r1 7 s 'A' 
+q181 r1 12 s 'B' 
+q182 r1 7 s 'A' 
+q186 r1 10 s 'A' 
+q188 r1 11 s 'B' 
+q191 r1 10 s 'A' 
+q192 r1 14 s 'B' 
+q195 r1 10 s 'A' 
+q198 r1 8 s 'A' 
+q201 r1 11 s 'A' 
+q204 r1 11 s 'A' 
+q205 r1 10 s 'B' 
+q206 r1 8 s 'B' 
+q207 r1 9 s 'B' 
+q208 r1 10 s 'B' 
+q209 r1 10 s 'B' 
+q210 r1 8 s 'A' 
+q211 r1 9 s 'B' 
+q212 r1 10 s 'B' 
+q213 r1 11 s 'A' 
+q214 r1 9 s 'A' 
+q215 r1 10 s 'D' 
+q216 r1 11 s 'A' 
+q217 r1 16 s 'D' 
+q218 r1 11 s 'B' 
+q219 r1 13 s 'D' 
+q220 r1 10 s 'A' 
+q221 r1 11 s 'D' 
+q222 r1 10 s 'B' 
+q223 r1 9 s 'B' 
+q224 r1 11 s 'A' 
+q225 r1 11 s 'B' 
+q226 r1 10 s 'B' 
+q227 r1 12 s 'A' 
+q228 r1 12 s 'B' 
+q229 r1 11 s 'B' 
+q230 r1 9 s 'A' 
+q231 r1 9 s 'A' 
+q232 r1 9 s 'D' 
+q233 r1 11 s 'B' 
+q234 r1 11 s 'B' 
+q235 r1 11 s 'D' 
+q236 r1 10 s 'A' 
+q237 r1 10 s 'A' 
+q238 r1 12 s 'B' 
+q239 r1 14 s 'B' 
+q240 r1 10 s 'A' 
+q241 r1 9 s 'A' 
+q242 r1 10 s 'A' 
+q243 r1 11 s 'A' 
+q244 r1 12 s 'D' 
+q245 r1 12 s 'B' 
+q246 r1 9 s 'A' 
+q247 r1 10 s 'A' 
+q248 r1 12 s 'D' 
+q249 r1 11 s 'D' 
+q250 r1 11 s 'A' 
+q251 r1 11 s 'B' 
+q252 r1 9 s 'B' 
+q253 r1 11 s 'D' 
+q254 r1 10 s 'B' 
+q255 r1 9 s 'A' 
+q256 r1 10 s 'B' 
+q257 r1 16 s 'A' 
+q258 r1 12 s 'B' 
+q259 r1 10 s 'A' 
+q260 r1 11 s 'A' 
+q261 r1 11 s 'A' 
+q262 r1 12 s 'A' 
+q263 r1 11 s 'B' peeked
+q264 r1 10 s 'C' peeked
+q265 r1 9 s 'C' 
+q266 r1 10 s 'A' peeked
+q267 r1 10 s 'A' 
+q268 r1 9 s 'C' 
+q269 r1 8 s 'B' peeked
+q270 r1 12 s 'A' peeked
+q271 r1 10 s 'C' 
+q272 r1 11 s 'B' 
+q273 r1 9 s 'A' 
+q274 r1 12 s 'C' peeked
+q275 r1 9 s 'A' peeked
+q276 r1 10 s 'C' 
+q277 r1 11 s 'C' 
+q278 r1 13 s 'A' 
+q279 r1 10 s 'A' 
+q280 r1 11 s 'C' peeked
+q281 r1 8 s 'B' 
+q282 r1 10 s 'C' 
+q283 r1 13 s 'C' 
+q284 r1 11 s 'C' 
+q285 r1 7 s 'B' 
+q286 r1 9 s 'C' 
+q287 r1 12 s 'A' peeked
+q288 r1 10 s 'B' peeked
+q289 r1 16 s 'C' 
+q290 r1 10 s 'B' peeked
+q291 r1 8 s 'A' peeked
+q292 r1 12 s 'A' peeked
+q293 r1 8 s 'B' peeked
+q294 r1 7 s 'B' peeked
+q295 r1 8 s 'A' peeked
+q296 r1 7 s 'B' peeked
+q297 r1 12 s 'B' 
+q298 r1 11 s 'C' peeked
+q299 r1 8 s 'A' peeked
+q300 r1 7 s 'A' peeked
+q301 r1 10 s 'B' peeked
+q302 r1 13 s 'A' peeked
+q303 r1 10 s 'B' 
+q304 r1 8 s 'B' peeked
+q305 r1 9 s 'C' peeked
+q306 r1 8 s 'A' 
+q307 r1 7 s 'B' 
+q308 r1 10 s 'B' peeked
+q309 r1 7 s 'B' 
+q310 r1 9 s 'C' peeked
+q311 r1 10 s 'C' peeked

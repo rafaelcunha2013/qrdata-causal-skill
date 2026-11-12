@@ -1,0 +1,6 @@
+{
+ "task": "q409",
+ "answer": "0.63",
+ "seconds": 15,
+ "reply": "Among voters whose self-reported race is black, 62.7% are correctly classified, which rounds to 0.63.\n\n**Method:**\n- I dropped voters with any missing value. I then merged them with the surname and voting-district tables and dropped rows that failed to match, which left 8,021 voters. Of those, 1,078 are black.\n- For each voter I computed P(race | surname, residence) in proportion to P(race | surname) \u00d7 P(race | district) / P(race). I took P(race) from the statewide population shares implied by the district data.\n- I assigned each voter to the race with the highest probability and compared it to their self-reported race.\n\nANSWER: 0.63"
+}

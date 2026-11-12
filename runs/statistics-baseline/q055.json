@@ -1,0 +1,6 @@
+{
+ "task": "q055",
+ "answer": "4.4",
+ "seconds": 7,
+ "reply": "The Poisson event rate is estimated by the sample mean of the daily AMI counts. Across the 365 days, that mean is 4.38, which rounds to 4.4.\n\nANSWER: 4.4"
+}

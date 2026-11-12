@@ -1,0 +1,6 @@
+{
+ "task": "q242",
+ "answer": "A",
+ "seconds": 10,
+ "reply": "I didn't run a causal-discovery analysis. This answer rests on domain knowledge plus the correlation I computed.\n\nResidual_GH_mean and Residual_sea_ice are correlated at -0.19. In the Arctic, atmospheric circulation (geopotential height, a pressure-like variable) drives sea ice through wind and heat transport. Sea ice changes are much less likely to drive large-scale geopotential height. The more likely direction is therefore GH \u2192 sea ice, which is option A.\n\nANSWER: A"
+}

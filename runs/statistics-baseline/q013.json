@@ -1,0 +1,6 @@
+{
+ "task": "q013",
+ "answer": "30",
+ "seconds": 11,
+ "reply": "The file has 449 rows, but only the 91 rows from monitor POC 1 have an AQI value. The other 358 rows (POC 3) have none. Those 91 days match the sample described in the question, and their median AQI is 30.\n\nANSWER: 30"
+}

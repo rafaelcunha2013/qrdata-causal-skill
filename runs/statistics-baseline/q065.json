@@ -1,0 +1,6 @@
+{
+ "task": "q065",
+ "answer": "yes",
+ "seconds": 9,
+ "reply": "p\u0302=576/1028=0.560; z=(0.560-0.5)/sqrt(.25/1028)\u22483.9, one-sided p<0.001.\n\nYes, 56% favored nuclear arms reduction (576 of 1,028). A one-sided test of p > 0.5 gives z \u2248 3.9 and p < 0.001, below the 5% level.\n\nANSWER: yes"
+}

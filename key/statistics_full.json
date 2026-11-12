@@ -1,0 +1,570 @@
+{
+ "q000": {
+  "answer": "0.20",
+  "question_type": "numerical"
+ },
+ "q001": {
+  "answer": "0.23",
+  "question_type": "numerical"
+ },
+ "q002": {
+  "answer": "treatment group",
+  "question_type": "multiple_choice"
+ },
+ "q003": {
+  "answer": "0.78",
+  "question_type": "numerical"
+ },
+ "q004": {
+  "answer": "0.80",
+  "question_type": "numerical"
+ },
+ "q005": {
+  "answer": "control group",
+  "question_type": "multiple_choice"
+ },
+ "q006": {
+  "answer": "1691",
+  "question_type": "numerical"
+ },
+ "q007": {
+  "answer": "categorical",
+  "question_type": "multiple_choice"
+ },
+ "q008": {
+  "answer": "categorical",
+  "question_type": "multiple_choice"
+ },
+ "q009": {
+  "answer": "numerical",
+  "question_type": "multiple_choice"
+ },
+ "q010": {
+  "answer": "categorical",
+  "question_type": "multiple_choice"
+ },
+ "q011": {
+  "answer": "no",
+  "question_type": "multiple_choice"
+ },
+ "q012": {
+  "answer": "numerical",
+  "question_type": "multiple_choice"
+ },
+ "q013": {
+  "answer": "30",
+  "question_type": "numerical"
+ },
+ "q014": {
+  "answer": "right skewed",
+  "question_type": "multiple_choice"
+ },
+ "q015": {
+  "answer": "19.50",
+  "question_type": "numerical"
+ },
+ "q016": {
+  "answer": "0.41",
+  "question_type": "numerical"
+ },
+ "q017": {
+  "answer": "0.06",
+  "question_type": "numerical"
+ },
+ "q018": {
+  "answer": "0.15",
+  "question_type": "numerical"
+ },
+ "q019": {
+  "answer": "dependent",
+  "question_type": "multiple_choice"
+ },
+ "q020": {
+  "answer": "dependent",
+  "question_type": "multiple_choice"
+ },
+ "q021": {
+  "answer": "false",
+  "question_type": "multiple_choice"
+ },
+ "q022": {
+  "answer": "true",
+  "question_type": "multiple_choice"
+ },
+ "q023": {
+  "answer": "false",
+  "question_type": "multiple_choice"
+ },
+ "q024": {
+  "answer": "true",
+  "question_type": "multiple_choice"
+ },
+ "q025": {
+  "answer": "0.035",
+  "question_type": "numerical"
+ },
+ "q026": {
+  "answer": "2370",
+  "question_type": "numerical"
+ },
+ "q027": {
+  "answer": "no",
+  "question_type": "multiple_choice"
+ },
+ "q028": {
+  "answer": "0.23",
+  "question_type": "numerical"
+ },
+ "q029": {
+  "answer": "6.51",
+  "question_type": "numerical"
+ },
+ "q030": {
+  "answer": "42.14",
+  "question_type": "numerical"
+ },
+ "q031": {
+  "answer": "yes",
+  "question_type": "multiple_choice"
+ },
+ "q032": {
+  "answer": "0.61",
+  "question_type": "numerical"
+ },
+ "q033": {
+  "answer": "0.095",
+  "question_type": "numerical"
+ },
+ "q034": {
+  "answer": "0.643",
+  "question_type": "numerical"
+ },
+ "q035": {
+  "answer": "0.141",
+  "question_type": "numerical"
+ },
+ "q036": {
+  "answer": "0.025",
+  "question_type": "numerical"
+ },
+ "q037": {
+  "answer": "no",
+  "question_type": "multiple_choice"
+ },
+ "q038": {
+  "answer": "no",
+  "question_type": "multiple_choice"
+ },
+ "q039": {
+  "answer": "0.62",
+  "question_type": "numerical"
+ },
+ "q040": {
+  "answer": "0.90",
+  "question_type": "numerical"
+ },
+ "q041": {
+  "answer": "0.33",
+  "question_type": "numerical"
+ },
+ "q042": {
+  "answer": "no",
+  "question_type": "multiple_choice"
+ },
+ "q043": {
+  "answer": "0.18",
+  "question_type": "numerical"
+ },
+ "q044": {
+  "answer": "no",
+  "question_type": "multiple_choice"
+ },
+ "q045": {
+  "answer": "0.65",
+  "question_type": "numerical"
+ },
+ "q046": {
+  "answer": "0.72",
+  "question_type": "numerical"
+ },
+ "q047": {
+  "answer": "0.51",
+  "question_type": "numerical"
+ },
+ "q048": {
+  "answer": "0.71",
+  "question_type": "numerical"
+ },
+ "q049": {
+  "answer": "0.68",
+  "question_type": "numerical"
+ },
+ "q050": {
+  "answer": "0.31",
+  "question_type": "numerical"
+ },
+ "q051": {
+  "answer": "no",
+  "question_type": "multiple_choice"
+ },
+ "q052": {
+  "answer": "0.117",
+  "question_type": "numerical"
+ },
+ "q053": {
+  "answer": "0.002",
+  "question_type": "numerical"
+ },
+ "q054": {
+  "answer": "0.69",
+  "question_type": "numerical"
+ },
+ "q055": {
+  "answer": "4.4",
+  "question_type": "numerical"
+ },
+ "q056": {
+  "answer": "yes",
+  "question_type": "multiple_choice"
+ },
+ "q057": {
+  "answer": "0.819",
+  "question_type": "numerical"
+ },
+ "q058": {
+  "answer": "no",
+  "question_type": "multiple_choice"
+ },
+ "q059": {
+  "answer": "0.82",
+  "question_type": "numerical"
+ },
+ "q060": {
+  "answer": "0.012",
+  "question_type": "numerical"
+ },
+ "q061": {
+  "answer": "0.796",
+  "question_type": "numerical"
+ },
+ "q062": {
+  "answer": "0.844",
+  "question_type": "numerical"
+ },
+ "q063": {
+  "answer": "0.358",
+  "question_type": "numerical"
+ },
+ "q064": {
+  "answer": "no",
+  "question_type": "multiple_choice"
+ },
+ "q065": {
+  "answer": "yes",
+  "question_type": "multiple_choice"
+ },
+ "q066": {
+  "answer": "0.016",
+  "question_type": "numerical"
+ },
+ "q067": {
+  "answer": "1.38",
+  "question_type": "numerical"
+ },
+ "q068": {
+  "answer": "smaller",
+  "question_type": "multiple_choice"
+ },
+ "q069": {
+  "answer": "-0.026",
+  "question_type": "numerical"
+ },
+ "q070": {
+  "answer": "0.006",
+  "question_type": "numerical"
+ },
+ "q071": {
+  "answer": "-0.007",
+  "question_type": "numerical"
+ },
+ "q072": {
+  "answer": "experiment",
+  "question_type": "multiple_choice"
+ },
+ "q073": {
+  "answer": "yes",
+  "question_type": "multiple_choice"
+ },
+ "q074": {
+  "answer": "0.00012",
+  "question_type": "numerical"
+ },
+ "q075": {
+  "answer": "0.00070",
+  "question_type": "numerical"
+ },
+ "q076": {
+  "answer": "0.8650",
+  "question_type": "numerical"
+ },
+ "q077": {
+  "answer": "0.012",
+  "question_type": "numerical"
+ },
+ "q078": {
+  "answer": "reject",
+  "question_type": "multiple_choice"
+ },
+ "q079": {
+  "answer": "no",
+  "question_type": "multiple_choice"
+ },
+ "q080": {
+  "answer": "reject",
+  "question_type": "multiple_choice"
+ },
+ "q081": {
+  "answer": "0.0014",
+  "question_type": "numerical"
+ },
+ "q082": {
+  "answer": "accept",
+  "question_type": "multiple_choice"
+ },
+ "q083": {
+  "answer": "0.6966",
+  "question_type": "numerical"
+ },
+ "q084": {
+  "answer": "no difference",
+  "question_type": "multiple_choice"
+ },
+ "q085": {
+  "answer": "0.0989",
+  "question_type": "numerical"
+ },
+ "q086": {
+  "answer": "5.89",
+  "question_type": "numerical"
+ },
+ "q087": {
+  "answer": "3",
+  "question_type": "numerical"
+ },
+ "q088": {
+  "answer": "0.1171",
+  "question_type": "numerical"
+ },
+ "q089": {
+  "answer": "52.67",
+  "question_type": "numerical"
+ },
+ "q090": {
+  "answer": "40.13",
+  "question_type": "numerical"
+ },
+ "q091": {
+  "answer": "2",
+  "question_type": "numerical"
+ },
+ "q092": {
+  "answer": "reject",
+  "question_type": "multiple_choice"
+ },
+ "q093": {
+  "answer": "8.16",
+  "question_type": "numerical"
+ },
+ "q094": {
+  "answer": "reject",
+  "question_type": "multiple_choice"
+ },
+ "q095": {
+  "answer": "0.017",
+  "question_type": "numerical"
+ },
+ "q096": {
+  "answer": "47.55",
+  "question_type": "numerical"
+ },
+ "q097": {
+  "answer": "11.47",
+  "question_type": "numerical"
+ },
+ "q098": {
+  "answer": "0.003",
+  "question_type": "numerical"
+ },
+ "q099": {
+  "answer": "false",
+  "question_type": "multiple_choice"
+ },
+ "q100": {
+  "answer": "true",
+  "question_type": "multiple_choice"
+ },
+ "q101": {
+  "answer": "false",
+  "question_type": "multiple_choice"
+ },
+ "q102": {
+  "answer": "false",
+  "question_type": "multiple_choice"
+ },
+ "q103": {
+  "answer": "1.63",
+  "question_type": "numerical"
+ },
+ "q104": {
+  "answer": "2.20",
+  "question_type": "numerical"
+ },
+ "q105": {
+  "answer": "0.0312",
+  "question_type": "numerical"
+ },
+ "q106": {
+  "answer": "0.32",
+  "question_type": "numerical"
+ },
+ "q107": {
+  "answer": "2.36",
+  "question_type": "numerical"
+ },
+ "q108": {
+  "answer": "0.019",
+  "question_type": "numerical"
+ },
+ "q109": {
+  "answer": "Type 1 Error",
+  "question_type": "multiple_choice"
+ },
+ "q110": {
+  "answer": "no",
+  "question_type": "multiple_choice"
+ },
+ "q111": {
+  "answer": "4.93",
+  "question_type": "numerical"
+ },
+ "q376": {
+  "answer": "0.033",
+  "question_type": "numerical"
+ },
+ "q377": {
+  "answer": "0.030",
+  "question_type": "numerical"
+ },
+ "q378": {
+  "answer": "0.022",
+  "question_type": "numerical"
+ },
+ "q379": {
+  "answer": "0.159",
+  "question_type": "numerical"
+ },
+ "q380": {
+  "answer": "0.048",
+  "question_type": "numerical"
+ },
+ "q381": {
+  "answer": "0.032",
+  "question_type": "numerical"
+ },
+ "q382": {
+  "answer": "-0.062",
+  "question_type": "numerical"
+ },
+ "q383": {
+  "answer": "0.056",
+  "question_type": "numerical"
+ },
+ "q384": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q385": {
+  "answer": "0.942",
+  "question_type": "numerical"
+ },
+ "q386": {
+  "answer": "1.062",
+  "question_type": "numerical"
+ },
+ "q387": {
+  "answer": "5.909",
+  "question_type": "numerical"
+ },
+ "q388": {
+  "answer": "3",
+  "question_type": "numerical"
+ },
+ "q389": {
+  "answer": "15",
+  "question_type": "numerical"
+ },
+ "q390": {
+  "answer": "0.433",
+  "question_type": "numerical"
+ },
+ "q391": {
+  "answer": "0.660",
+  "question_type": "numerical"
+ },
+ "q392": {
+  "answer": "0.264",
+  "question_type": "numerical"
+ },
+ "q393": {
+  "answer": "0.983",
+  "question_type": "numerical"
+ },
+ "q394": {
+  "answer": "0.571",
+  "question_type": "numerical"
+ },
+ "q395": {
+  "answer": "0.461",
+  "question_type": "numerical"
+ },
+ "q396": {
+  "answer": "0.513",
+  "question_type": "numerical"
+ },
+ "q397": {
+  "answer": "0.851",
+  "question_type": "numerical"
+ },
+ "q403": {
+  "answer": "0.022",
+  "question_type": "numerical"
+ },
+ "q404": {
+  "answer": "9.500",
+  "question_type": "numerical"
+ },
+ "q405": {
+  "answer": "63",
+  "question_type": "numerical"
+ },
+ "q406": {
+  "answer": "0.16",
+  "question_type": "numerical"
+ },
+ "q407": {
+  "answer": "0.56",
+  "question_type": "numerical"
+ },
+ "q408": {
+  "answer": "0.20",
+  "question_type": "numerical"
+ },
+ "q409": {
+  "answer": "0.63",
+  "question_type": "numerical"
+ },
+ "q410": {
+  "answer": "0.61",
+  "question_type": "numerical"
+ }
+}

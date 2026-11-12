@@ -1,0 +1,6 @@
+{
+ "task": "q081",
+ "answer": "0.0016",
+ "seconds": 12,
+ "reply": "The two-proportion z-test (pooled) comparing the share answering \"do not know\" gives a p-value of 0.0016.\n\n- College graduates: 104 of 438 (23.7%) don't know.\n- Non-graduates: 131 of 389 (33.7%) don't know.\n- z = 3.16, two-sided.\n\nANSWER: 0.0016"
+}

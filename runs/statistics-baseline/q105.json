@@ -1,0 +1,6 @@
+{
+ "task": "q105",
+ "answer": "0.0312",
+ "seconds": 12,
+ "reply": "I ran a paired t-test on new-book prices (`bookstore_new` vs `amazon_new`). Pairing fits because each textbook has a price from both sellers. Only 68 of the 201 rows have both prices, so the test uses those 68 pairs.\n\nThe test gives t = 2.20 with 67 degrees of freedom and a two-sided p-value of 0.0312. That is below 0.05, so the data reject the null hypothesis of no difference in average price.\n\nI chose new-book prices over used ones, which the question doesn't specify.\n\nANSWER: 0.0312"
+}

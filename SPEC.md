@@ -1,47 +1,46 @@
-# SPEC — a skill for causal effect estimation on QRData
+# SPEC — a skill for causal discovery on QRData
 
-Written from the grill-me session (`process/grill-me-transcript.md`), 11 Nov 2026. This file states **what** we build and **why**; `PLAN.md` states **how**.
+Written from the grill-me session (`process/grill-me-transcript.md`), 11 Nov 2026, and revised on 12 Nov after the scope check (version 3; v1 and v2 beside this file). This file states **what** we build and **why**; `PLAN.md` states **how**.
 
 ## Goal
 
-Build one agent skill, `causal-effect`, that helps a coding agent answer QRData's effect-estimation questions. Then measure whether the agent answers more of them correctly with the skill than without it.
+Build one agent skill, `causal-discovery`, that helps a coding agent answer QRData's causal-discovery questions on real data: "which cause-and-effect relationship between these two variables is more likely?". Then measure whether the agent answers more of them correctly with the skill than without it.
 
 ## Why this part of QRData
 
-| Part of QRData | Questions | Pilot without a skill | Decision |
-|---|---|---|---|
-| Statistics (no "Causality" keyword) | 142 | 9 of 10 right | out: almost no room to improve |
-| Causal discovery (full graph, pairwise) | 150 + 50 | part of the causal pilot | out: the answer graphs are published, so a skill could help only by holding the answers |
-| Effect estimation (the rest of "Causality") | 69 | part of the causal pilot (5 of 10) | **in** |
+We ran the agent without a skill on the development half of each candidate part, and counted the wrong answers a skill could fix.
 
-Effect estimation is a procedure: name the estimand, name the design, choose a method, compute. A skill can teach that procedure without holding any answer.
+| Part of QRData | Questions | Right without a skill | Wrong answers a skill could fix | Decision |
+|---|---|---|---|---|
+| Statistics | 142 | 75 of 83 (dev) | few: almost all right | out |
+| Effect estimation | 69 | 17 of 31 (dev) | 1 of 14 | out: the failures come from the key, not the method |
+| Discovery, simulated data (Neuropathic) | 100 | 46 of 50 (dev) | — | out: almost all right |
+| **Discovery, real data (arctic.csv, flow.csv)** | **100** | **20 of 50 (dev)** | **23 of 30** | **in** |
+
+On the real-data questions the agent claims a causal link where the key says there is none: in 23 of its 30 wrong development answers. It answers from domain knowledge and correlation instead of testing the data. Testing the data is a procedure a skill can teach, with a script that runs the test.
 
 ## What the skill does
 
-The agent follows six steps: (1) write down what the question fixes: estimand, model terms, conditions, scale and rounding; (2) name the design; (3) inspect the CSV; (4) fit the model the question fixes, or else choose the method from the skill's reference and compute it with the skill's script; (5) compare the result with the naive difference in means and check it against step 1; (6) round as asked and end with `ANSWER: <value>`.
-
-*Changed on 12 Nov (v1 beside this file):* the failure analysis of the first run showed that method choice alone does not beat the agent (`PLAN.md` § 1, § 3). The skill therefore also teaches reading the specification off the question.
+The agent follows six steps: (1) read the two variables and the options; (2) check both variables are columns of the CSV; (3) run the skill's script, which runs the PC algorithm on all columns and reports whether the two variables are linked and in which direction; (4) map the result to an option: no link → "no causal relationship", a directed link → that direction, an undirected link → "double sided" if offered; (5) do not answer from domain knowledge or correlation alone; (6) end with `ANSWER: <letter>`.
 
 ## What is in the skill, and what is not
 
-| Inside `skills/causal-effect/` (the agent sees it) | Outside the skill (only we see it) |
+| Inside `tasks/.agents/skills/causal-discovery/` (the agent sees it) | Outside the skill (only we see it) |
 |---|---|
 | `SKILL.md`: trigger + the six steps | `harness/make_tasks.py`: task folders, answer key, dev/test split |
-| `references/methods.md`: when to use each method | `harness/run_agent.py`: runs the agent, stores answers |
-| `scripts/estimate.py`: computes an estimate | `harness/score.py`: compares answers with the key |
+| `references/reading-the-graph.md`: how the script's output maps to the options | `harness/run_agent.py`: runs the agent, stores answers |
+| `scripts/discover.py`: runs the PC algorithm on a CSV | `harness/score.py`: compares answers with the key |
 | | `key/`: the answers |
+
+The skill names no variable of the two datasets and no link between them: development and test questions come from the same two datasets, so a skill that held links seen on development questions would hold answers to test questions.
 
 ## Success criteria
 
-- The comparison is fair: both arms run the same command and prompt; the only difference is the skill folder.
+- The comparison is fair: both runs use the same command and prompt; the only difference is the skill folder.
 - No run can read the answer key, and every run is checked for it.
-- The result is reported with a sign test fixed in advance (p < 0.05), whether the skill helps or not.
+- The result is reported with a sign test fixed in advance (p < 0.05), whether the skill helps or not, next to two reference scores: answering "no causal relationship" every time, and the PC algorithm alone.
 
 ## Constraints
 
 - Two students, one laptop, about 3 weeks for phase 2; a limited API budget.
 - Agent: Claude Code with Sonnet, non-interactive (`claude -p`).
-
-## Checked after the session
-
-- grill-me said that with `--setting-sources project` "the baseline should list no skills". Tested on 11 Nov: user-installed plugins are removed, but Claude Code's ~22 built-in skills still load in both arms. The check is therefore: both arms load the same skills except `causal-effect`, and no run calls any other skill.

@@ -1,0 +1,6 @@
+{
+ "task": "q234",
+ "answer": "B",
+ "seconds": 11,
+ "reply": "Option B is more likely, but I picked it from physical reasoning and did not test it against `arctic.csv`.\n\nSea level pressure and geopotential height are tightly coupled. Pressure changes reflect mass redistribution in the atmosphere, and the height of the pressure surfaces responds to them. That makes Residual_SLP the driver and Residual_GH_mean the response.\n\nANSWER: B"
+}

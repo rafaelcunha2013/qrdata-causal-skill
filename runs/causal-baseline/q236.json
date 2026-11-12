@@ -1,0 +1,6 @@
+{
+ "task": "q236",
+ "answer": "A",
+ "seconds": 9,
+ "reply": "I didn't run a causal-direction test. The data show a correlation of 0.60 between the two variables, so D (no causal relationship) is unlikely. Correlation alone can't tell the direction. I chose A on physical reasoning: higher relative humidity favours cloud formation, so humidity more plausibly drives cloud cover than the reverse.\n\nANSWER: A"
+}

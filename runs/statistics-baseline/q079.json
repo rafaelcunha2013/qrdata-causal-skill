@@ -1,0 +1,6 @@
+{
+ "task": "q079",
+ "answer": "no",
+ "seconds": 7,
+ "reply": "No. The normal approximation needs at least 10 successes and 10 failures in each group. The control group had 30 deaths and only 4 survivors, so that condition fails.\n\nANSWER: no"
+}

@@ -1,0 +1,6 @@
+{
+ "task": "q215",
+ "answer": "D",
+ "seconds": 8,
+ "reply": "The question is malformed. Options A and B both read \"Residual_v10m causes Residual_v10m\", and option C pairs the variable with itself. A variable can't cause itself, so the only sensible choice is D.\n\nANSWER: D"
+}

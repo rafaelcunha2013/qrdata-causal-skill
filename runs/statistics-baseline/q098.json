@@ -1,0 +1,6 @@
+{
+ "task": "q098",
+ "answer": "0.003",
+ "seconds": 11,
+ "reply": "The chi-square test of independence between college-grad status and position on offshore drilling gives \u03c7\u00b2 \u2248 11.46 with 2 degrees of freedom, so p \u2248 0.0032. At 3 decimals that rounds to 0.003. The data covers all 827 respondents.\n\nThe CSV had its column names (`position`, `college_grad`) in the second row, so I reread it with that row as the header.\n\nANSWER: 0.003"
+}

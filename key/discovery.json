@@ -1,0 +1,802 @@
+{
+ "q112": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q113": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q114": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q115": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q116": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q117": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q118": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q119": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q120": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q121": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q122": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q123": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q124": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q125": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q126": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q127": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q128": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q129": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q130": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q131": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q132": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q133": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q134": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q135": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q136": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q137": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q138": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q139": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q140": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q141": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q142": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q143": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q144": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q145": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q146": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q147": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q148": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q149": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q150": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q151": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q152": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q153": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q154": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q155": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q156": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q157": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q158": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q159": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q160": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q161": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q162": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q163": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q164": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q165": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q166": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q167": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q168": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q169": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q170": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q171": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q172": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q173": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q174": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q175": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q176": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q177": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q178": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q179": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q180": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q181": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q182": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q183": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q184": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q185": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q186": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q187": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q188": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q189": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q190": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q191": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q192": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q193": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q194": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q195": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q196": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q197": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q198": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q199": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q200": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q201": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q202": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q203": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q204": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q205": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q206": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q207": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q208": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q209": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q210": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q211": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q212": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q213": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q214": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q215": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q216": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q217": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q218": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q219": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q220": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q221": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q222": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q223": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q224": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q225": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q226": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q227": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q228": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q229": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q230": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q231": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q232": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q233": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q234": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q235": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q236": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q237": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q238": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q239": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q240": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q241": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q242": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q243": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q244": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q245": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q246": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q247": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q248": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q249": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q250": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q251": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q252": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q253": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q254": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q255": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q256": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q257": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q258": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q259": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q260": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q261": {
+  "answer": "D",
+  "question_type": "multiple_choice"
+ },
+ "q262": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q263": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q264": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q265": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q266": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q267": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q268": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q269": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q270": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q271": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q272": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q273": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q274": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q275": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q276": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q277": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q278": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q279": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q280": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q281": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q282": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q283": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q284": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q285": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q286": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q287": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q288": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q289": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q290": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q291": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q292": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q293": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q294": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q295": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q296": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q297": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q298": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q299": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q300": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q301": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q302": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q303": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q304": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q305": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q306": {
+  "answer": "A",
+  "question_type": "multiple_choice"
+ },
+ "q307": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q308": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q309": {
+  "answer": "B",
+  "question_type": "multiple_choice"
+ },
+ "q310": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ },
+ "q311": {
+  "answer": "C",
+  "question_type": "multiple_choice"
+ }
+}

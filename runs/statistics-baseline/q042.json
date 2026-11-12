@@ -1,0 +1,6 @@
+{
+ "task": "q042",
+ "answer": "no",
+ "seconds": 18,
+ "reply": "The chi-square test of independence between party/ideology and response gives \u03c7\u00b2 \u2248 507.5 with 6 degrees of freedom and p \u2248 2e-106. That is far below any usual significance level, so belief that the earth is warming is not independent of party and ideology.\n\nANSWER: no"
+}

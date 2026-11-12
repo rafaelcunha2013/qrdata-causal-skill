@@ -1,0 +1,6 @@
+{
+ "task": "q358",
+ "answer": "yes",
+ "seconds": 12,
+ "reply": "Yes, you should also control for `hospital`.\n\nTreatment is randomized only within each hospital, and the two hospitals use different assignment rates (90% vs 10%). So treatment is correlated with hospital. Hospital also plausibly affects days hospitalised, so it can confound the treatment\u2013outcome relationship. Adjusting for hospital restores the conditional randomization.\n\nThe data agree that the adjustment matters. The treatment coefficient moves from -7.6 to -5.1 days when hospital is added. The hospital coefficient itself is not statistically significant (p\u22480.35).\n\nANSWER: yes"
+}

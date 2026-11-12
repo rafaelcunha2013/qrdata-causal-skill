@@ -1,0 +1,6 @@
+{
+ "task": "q370",
+ "answer": "9.75",
+ "seconds": 12,
+ "reply": "Both RD specifications give the same jump at 21 (9.753312). I used the 26 age groups from 20 to 22 and compared deaths from all causes just below and just above 21. I fit a linear regression with an indicator for age 21 or older, with and without a separate slope on each side.\n\nCrossing the legal drinking age raises all-cause mortality by about 9.75 deaths.\n\nANSWER: 9.75"
+}

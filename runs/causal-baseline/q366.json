@@ -1,0 +1,6 @@
+{
+ "task": "q366",
+ "answer": "0.39",
+ "seconds": 10,
+ "reply": "Using inverse propensity weighting with a logistic-regression propensity score, the estimated average treatment effect of the growth mindset on achievement is about 0.39 standard deviations.\n\nThe propensity model used all the student and school covariates. The unnormalised and normalised (H\u00e1jek) weighting estimators agree, giving 0.3885 and 0.3886.\n\nANSWER: 0.39"
+}
