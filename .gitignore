@@ -1,0 +1,18 @@
+# Python environment (rebuild with uv; see README)
+.venv/
+__pycache__/
+
+# The QRData download: questions, answers and data (see README, "Setup")
+upstream/
+
+# Task folders are rebuilt by harness/make_tasks.py.
+# Kept: q213, the worked example in PLAN.md, so you can open it without the download.
+tasks/q*/
+!tasks/q213/
+tasks_*/
+
+# Earlier drafts live in the git history, not as files
+* v1.md
+* v2.md
+
+.DS_Store
